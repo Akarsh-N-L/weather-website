@@ -1,0 +1,23 @@
+{
+  "name": "weather-website",
+  "version": "1.0.0",
+  "description": "weather web application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akarsh-N-L/weather-website.git"
+  },
+  "author": "Akarsh N L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akarsh-N-L/weather-website/issues"
+  },
+  "homepage": "https://github.com/Akarsh-N-L/weather-website#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
